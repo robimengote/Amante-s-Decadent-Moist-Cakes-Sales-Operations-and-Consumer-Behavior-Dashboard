@@ -1,4 +1,4 @@
-<div align="center"> # Amante's Coffee Shop: Sales & Operations Dashboard</div>
+#<div align="center">Amante's Coffee Shop: Sales & Operations Dashboard</div>
 
 <div align="center"><img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/b2dda2a2-b2cf-4aec-8774-d03c1d5f354b" /></div>
 
