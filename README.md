@@ -44,7 +44,7 @@ Granular analysis of product customizations to drive inventory planning and menu
 ## 🛠️ Tech Stack
 
 - **Visualization:** Microsoft Power BI
-- **Data Cleaning & Modeling:** Power Query
+- **Data Cleaning & Modeling:** Power Query, Python(pandas)
 - **Calculations:** DAX (Data Analysis Expressions)
 
 ## 🔎 Dashboard Walkthrough
