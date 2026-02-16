@@ -34,17 +34,18 @@ Granular analysis of product customizations to drive inventory planning and menu
 ### 5. Dynamic Filtering
 - **Interactive Slicers:** Users can filter the entire report by **Week Number**, **Month Name**, and **Day of the Week** to isolate specific trends and seasonal anomalies.
 
-## 🛠️ Tech Stack
-
-- **Visualization:** Microsoft Power BI
-- **Data Cleaning & Modeling:** Power Query
-- **Calculations:** DAX (Data Analysis Expressions)
 
 ## 💡 Business Insights (Example Scenarios)
 
 - **Staffing Optimization:** The "Performance by Hour" chart reveals peak demand windows, allowing management to schedule extra baristas specifically during those high-volume hours.
 - **Inventory Management:** "Appetizer Flavor Preference" data helps in forecasting stock requirements for specific seasonings, preventing stockouts of popular flavors like Cheese or Sour Cream.
 - **Menu Engineering:** "Sweetness Preference" data suggests standardizing recipes to the most common request (e.g., 50%) to improve workflow efficiency.
+
+## 🛠️ Tech Stack
+
+- **Visualization:** Microsoft Power BI
+- **Data Cleaning & Modeling:** Power Query
+- **Calculations:** DAX (Data Analysis Expressions)
 
 ## 🔎 Dashboard Walkthrough
 
